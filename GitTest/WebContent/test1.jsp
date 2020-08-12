@@ -14,10 +14,6 @@ test1.jsp 수정
 	
 	UPDATE
 
-    myupdate
-    DOWNDOWN
-dsasadsadsda
-	sdfddadsf
-	PULL
+    myupdate 
 </body>
 </html>
