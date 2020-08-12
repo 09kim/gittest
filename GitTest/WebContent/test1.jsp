@@ -9,10 +9,7 @@
 <body>
 test1.jsp 수정
     update2
-
     myupdate
-
-    dsaads
-    UPPPP
+    DOWNDOWN
 </body>
 </html>
