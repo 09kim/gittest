@@ -17,5 +17,7 @@ test1.jsp 수정
     myupdate
     DOWNDOWN
 dsasadsadsda
+	
+	PULL
 </body>
 </html>
