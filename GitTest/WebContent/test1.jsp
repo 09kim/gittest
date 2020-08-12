@@ -14,6 +14,16 @@ test1.jsp 수정
 	
 	UPDATE
 
+
     myupdate 
+
+    myupdate
+    DOWNDOWN
+dsasadsadsda
+	sdfddadsf
+	PULL
+	<h2>HELLO 09</h2>
+	hello
+
 </body>
 </html>
