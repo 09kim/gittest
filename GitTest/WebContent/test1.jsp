@@ -8,6 +8,6 @@
 </head>
 <body>
 test1.jsp 수정
-    update2
+    update2dfsafdfsd
 </body>
 </html>
